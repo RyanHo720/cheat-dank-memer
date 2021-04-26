@@ -17,6 +17,8 @@ But use your brain! Would you just sit there and type commands all the time? Are
 
 So here comes CheatDankMemer. It's a Python program which helps you to spam the commands. Running in a virtual machine is highly recommended, as you might want to surf other websites instead of sitting there watching the program spamming.
 
+As this code is just for fun/practice as I'm a beginner, this project will be closed if it gets over 10 watches. Thank you for your support.
+
 For tutorials, please visit the Wiki.
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
